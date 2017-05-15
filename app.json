@@ -1,0 +1,6 @@
+{
+  "name": "Node.js Memory Leak Example",
+  "description": "Part of the Troubleshooting Node.js Memory Use article",
+  "repository": "https://github.com/heroku-examples/node-memory-leak",
+  "keywords": ["node", "memory"]
+}
